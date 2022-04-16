@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/horizontalBoundary"
+    android:orientation="horizontal"
+    android:paddingVertical="10dp"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="50dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvOrderTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/darkText"
+            android:textSize="@dimen/regularText"
+            android:fontFamily="@font/raleway_semibold"
+            android:text="Laporan Kerusakan"/>
+        <TextView
+            android:id="@+id/tvOrderDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorRegularText"
+            android:textSize="@dimen/smallText"
+            android:fontFamily="@font/raleway_medium"
+            android:text="Pesan perbaikan wifi Indihome"/>
+        <TextView
+            android:id="@+id/tvOrderTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorRegularText"
+            android:textSize="@dimen/smallText"
+            android:fontFamily="@font/raleway_medium"
+            android:text="21 Juli 2018"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tvDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Detail"
+        android:textSize="@dimen/smallText"
+        android:textColor="@color/colorPrimary"
+        android:fontFamily="@font/raleway_semibold"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"/>
+</RelativeLayout>

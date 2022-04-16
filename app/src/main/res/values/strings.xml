@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">E-Ways Customer</string>
+    <string name="welcome_main">Selamat datang di E-Ways</string>
+    <string name="welcomesentence">Dengan masuk atau mendaftar, kamu menyetujui <font color='#fb282a'>Ketentuan Layanan</font> dan <font color='#fb282a'>Kebijakan Privasi</font></string>
+    <string name="layanan_utama">Layanan Utama</string>
+    <string name="layanan_lain">Layanan Lain</string>
+    
+    <!-- user-->
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="keluar">Keluar</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="Ubah">Ubah</string>
+
+    <string name="verified">Akun anda telah terverifikasi</string>
+    <string name="unverified">Akun anda belum terverifikasi</string>
+    <string name="ketentuan_layanan">Ketentuan Layanan</string>
+    <string name="kebijakan_privasi">Kebijakan Privasi</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">E-mail</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="alamat">Alamat</string>
+
+    <!-- order-->
+    <string name="titip_paket">Titip Paket</string>
+    <string name="titip_belanja">Titip Belanja</string>
+    <string name="sopp">SOPP</string>
+    <string name="layanan_bebas">Layanan Bebas</string>
+    <string name="psb">Pasang Baru</string>
+    <string name="ganti_paket">Ganti Paket</string>
+    <string name="pickup_ticket">Perbaikan</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="status">Status</string>
+    <string name="review">Review Pelayanan Agen</string>
+    <string name="review_hint">Masukkan review mengenai pelayanan agen kami&#8230;</string>
+    <string name="kirim">Kirim</string>
+    <string name="chat_hint">Tulis pesan anda disini&#8230;</string>
+    <string name="titipPaketHistoryDescription">%1$s - %2$s</string>
+    <string name="agen">Agen</string>
+    <string name="fee_agen">Fee Agen</string>
+    <string name="chat_agen">Chat Agen</string>
+    <string name="order_cancel">Batalkan Pesanan</string>
+    <string name="deskripsi_layanan">Deskripsi Layanan</string>
+    <string name="selesai">Selesai</string>
+
+
+    <string name="no_riwayat">Anda tidak memiliki riwayat pemesanan</string>
+    <string name="no_onprogress">Tidak ada pemesanan yang sedang dilayani</string>
+    <string name="no_oncreate">Tidak ada pemesanan baru</string>
+
+    <string name="agent_hint">Pilih Agen</string>
+    <string name="servicepacket_hint">Pilih paket layanan yang anda inginkan</string>
+    <string name="currentservicepaket_hint">Pilih paket layanan yang anda gunakan</string>
+    <string name="sopp_hint">Pilih tagihan yang ingin anda bayar</string>
+    <string name="order_cancel_hint">Ada yang salah dengan pesanan Anda?</string>
+
+    <!-- kabar cluster-->
+    <string name="kabar_cluster">Kabar Cluster</string>
+    <string name="kabar_cluster_welcome">Selamat datang di kabar cluster!</string>
+    <string name="post">POST</string>
+    <string name="pin">Pinned Post by Admin</string>
+    <string name="contentHint">Apa yang anda pikirkan?</string>
+    <string name="commentHint">Tulis komentar anda di sini</string>
+
+    <!-- notifikasi -->
+    <string name="no_notification">Anda tidak memiliki notifikasi apapun</string>
+
+    <!--lain-lain-->
+    <string name="lainnya">Lainnya</string>
+    <string name="dummy">Dummy</string>
+</resources>
